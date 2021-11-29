@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*
 Theme Name: FoodKapp
 Theme URI: http://themefie.com/foodkapp
@@ -3115,8 +3115,8 @@ ul {
 .main-home-area .location-area .notification-btn:after {
   content: "";
   position: absolute;
-  height: 11px;
-  width: 11px;
+  height: 0px;
+  width: 0px;
   border-radius: 50%;
   background: var(--main-color);
   right: 0;
